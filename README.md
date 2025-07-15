@@ -4,6 +4,7 @@
   </a>
   <a href="https://velog.io/@zkors/posts/" style="color: inherit;text-decoration: none;">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  <p>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</p>
   </a><hr></p>
       <p align="center">
 
