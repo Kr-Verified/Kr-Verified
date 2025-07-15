@@ -4,8 +4,8 @@
   </a>
   <a href="https://velog.io/@zkors/posts/" style="color: inherit;text-decoration: none;">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  <p> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!)](https://git.io/typing-svg) </p>
   </a><hr></p>
+  <p> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!)](https://git.io/typing-svg) </p>
       <p align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkors&layout=compact&hide=jupyter%20notebook,html,css&langs_count=20)  <hr>
