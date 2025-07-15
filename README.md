@@ -8,11 +8,11 @@
   <hr>
   </p>
 
-
+--
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=constantly growing student)](https://git.io/typing-svg)
 ---
 
-      <p align="center">
+  <p align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-verified&layout=compact&hide=jupyter%20notebook,html,css&langs_count=20)
   ---
