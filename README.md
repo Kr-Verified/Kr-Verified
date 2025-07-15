@@ -8,7 +8,7 @@
   <hr>
   </p>
 
---
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=constantly growing student)](https://git.io/typing-svg)
 ---
 
