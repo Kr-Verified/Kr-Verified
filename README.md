@@ -7,7 +7,7 @@
   </a>
   <hr>
   </p>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!)(https://git.io/typing-svg)
       <p align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-verified&layout=compact&hide=jupyter%20notebook,html,css&langs_count=20)
