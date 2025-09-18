@@ -45,4 +45,7 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Verified&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+
+--
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Verified&show_icons=true&theme=synthwave)
     
