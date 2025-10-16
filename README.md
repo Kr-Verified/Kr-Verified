@@ -54,6 +54,10 @@
           /> </div> 
     </div>
 
---
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Verified&show_icons=true&theme=synthwave)
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Kr-Verified&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kr-Verified&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Verified&layout=compact&theme=radical)
     
