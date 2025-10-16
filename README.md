@@ -55,9 +55,4 @@
     </div>
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Kr-Verified&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kr-Verified&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Verified&layout=compact&theme=radical)
-    
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN2NzQ5Z3I0NHVkb3N2cDY2M3NrcWJoYjRjYTR2bzF4MG5qdXk4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif)
