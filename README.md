@@ -4,7 +4,7 @@
 
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 성장중인 학생 </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <b>💻 Hello World</b></li><li> 프로그래밍과 알고리즘을 사랑하는 개발자 지망생</li><br></li><b>About Me</b></li></li><li> 다양한 언어 경험: C, Python, Java, JavaScript, 엄랭, gby ..</li></li><li> 문제 해결과 최적화에 관심이 많음 (백준, CodeUp, 대회 경험)</li></li><li> 웹, 백엔드(Spring), 게임(Unity) 등 여러 분야 실습 경험</li></li><li> 학습과 실습을 통해 근본 개념을 이해하는 것을 선호</li><br></li><b>Interests</b></li></li><li> 알고리즘 & 수학적 문제 해결</li></li><li> 컴퓨터 구조 & 네트워크</li></li><li> 보안 & 시스템 설계</li></li><li> 게임 개발 & 인터랙티브 시뮬레이션</li></li><li> 영상 제작 & 시각화 프로젝트</li></li><li> 계획 & 기획</li></li><li> 아이디어 생성 & 개선</li><br></li><b>Fun Facts</b></li></li><li> 생각이 많아 주변 상황과 소리를 동시에 파악 가능</li></li><li> 뇌에서 가상의 도화지를 만들어 시각적 정보를 분석하는 습관 있음</li></li><li> 집중하면 복잡한 상황도 단일 목표에 몰입 가능</li></li><li> 상상으로 나만의 새로운 세계 만들기를 좋아함 </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <b>💻 Hello World</b></li><li> 프로그래밍과 알고리즘을 사랑하는 개발자 지망생</li><br></li><b>About Me</b></li></li><li> 다양한 언어 경험: C, Python, Java, JavaScript, 엄랭, gby ..</li></li><li> 문제 해결과 최적화에 관심이 많음 (백준, CodeUp, 대회 경험)</li></li><li> 웹, 백엔드(Spring), 게임(Unity) 등 여러 분야 실습 경험</li></li><li> 학습과 실습을 통해 근본 개념을 이해하는 것을 선호</li><br></li><b>Interests</b></li></li><li> 알고리즘 & 수학적 문제 해결</li></li><li> 컴퓨터 구조 & 네트워크</li></li><li> 보안 & 시스템 설계</li></li><li> 게임 개발 & 인터랙티브 시뮬레이션</li></li><li> 영상 제작 & 시각화 프로젝트</li></li><li> 계획 & 기획</li></li><li> 아이디어 생성 & 개선</li>
     </div>
     <div style="text-align: left;">
     <br><br>
