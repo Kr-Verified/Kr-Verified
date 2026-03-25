@@ -1,53 +1,74 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=zkors&animation=&fontColor=000000&fontSize=70" />
-</div>
+<div align="center">
 
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 성장중인 학생 </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <b>💻 Hello World</b></li><li> 프로그래밍과 알고리즘을 사랑하는 개발자 지망생</li><br></li><b>About Me</b></li></li><li> 다양한 언어 경험: C, Python, Java, JavaScript, 엄랭, gby ..</li></li><li> 문제 해결과 최적화에 관심이 많음 (백준, CodeUp, 대회 경험)</li></li><li> 웹, 백엔드(Spring), 게임(Unity) 등 여러 분야 실습 경험</li></li><li> 학습과 실습을 통해 근본 개념을 이해하는 것을 선호</li><br></li><b>Interests</b></li></li><li> 알고리즘 & 수학적 문제 해결</li></li><li> 컴퓨터 구조 & 네트워크</li></li><li> 보안 & 시스템 설계</li></li><li> 게임 개발 & 인터랙티브 시뮬레이션</li></li><li> 영상 제작 & 시각화 프로젝트</li></li><li> 계획 & 기획</li></li><li> 아이디어 생성 & 개선</li>
-    </div>
-    <div style="text-align: left;">
-    <br><br>
+# zkors
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RzeGwwaTR4NTg1MTliZzZjaTE2YjNsODNlZTFid3c3YzlmeG91byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1in10D39NhoNq/giphy.gif)
+Backend Engineer | Problem Solver
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;">
-        <!-- 언어 -->
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-        <br/>
-        <!-- 프레임워크 / 라이브러리 -->
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
-        <br/>
-        <!-- DB / 배포 / 협업 -->
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/eunchong1761> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunchong1761"> </a>
-         <a href=mailto:dmschd0573@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:dmschd0573@gmail.com"> </a>
-         <a href=https://velog.io/@zkors> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@zkors"> </a>
-          </div>
-       </div> 
-    </div>
+확장성과 구조를 고민하는 개발자를 목표로 합니다.
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN2NzQ5Z3I0NHVkb3N2cDY2M3NrcWJoYjRjYTR2bzF4MG5qdXk4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif)
-
-    
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=zkors">
 </div>
 
 ---
-![GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTU2ZGl5bmt3MWs0Nm5qNnN1MDhzM2JnMWp1dm1rZDVzOG8wc3hsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MpvgQtBTPuUIxsfDrL/giphy.gif)
+
+## About Me
+
+- 알고리즘 기반 문제 해결 능력을 중심으로 성장
+- Baekjoon Platinum III
+- 단순 구현보다 구조 설계와 최적화를 중요하게 생각
+- 백엔드 중심이지만 프론트엔드 아키텍처에도 관심
+- infj
+
+---
+
+## Tech Focus
+
+### Backend
+- **Spring / Spring Boot 기반 API 설계**
+- RESTful 아키텍처 및 계층 구조 설계
+- 데이터베이스 모델링 및 최적화 경험
+
+### Frontend
+- **React 기반 구조 설계 경험**
+- FSD (Feature-Sliced Design) 아키텍처 적용
+- React Query를 활용한 서버 상태 관리
+- Storybook 기반 컴포넌트 단위 개발 경험
+
+### DevOps / Infra (Learning)
+- Docker 기반 환경 구성 경험
+- Prometheus / Grafana 모니터링 도구 사용 경험 (기초 수준)
+
+---
+
+## Tech Stack
+
+### Languages
+C / C++ / Java / Python / JavaScript
+
+### Backend
+Spring / Spring Boot / Express
+
+### Frontend
+React / React Query / FSD Architecture / Storybook
+
+### DevOps & Tools
+Docker / MySQL / Git / GitHub
+
+---
+
+## Stats
+
+![boj](http://mazassumnida.wtf/api/generate_badge?boj=zkors)
+
+---
+
+## Contact
+
+- Email: dmschd0573@gmail.com  
+- Velog: https://velog.io/@zkors  
+- Instagram: https://www.instagram.com/eunchong1761  
+
+---
+
+## Philosophy
+
+> "좋은 코드는 단순히 동작하는 코드가 아니라, 확장과 유지보수를 고려한 구조에서 나온다."
