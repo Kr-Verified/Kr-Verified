@@ -71,4 +71,4 @@ Docker / MySQL / Git / GitHub
 
 ## Philosophy
 
-> "좋은 코드는 단순히 동작하는 코드가 아니라, 확장과 유지보수를 고려한 구조에서 나온다."
+> "Whatever i undergo, I feel grateful."
